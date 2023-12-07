@@ -1,0 +1,14 @@
+.first{
+    background-color: black;
+    /* The first element: a black background  */
+    color: white;
+    /* and white text */
+}
+.second{
+    background-color: yellow;
+    /* The second element: a yellow background */
+}
+.first, .second{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
